@@ -6,7 +6,7 @@ function Navbar() {
     <header>
       <nav className="container">
         <div className="dsmovie-nav-content">
-          <h1>DSMovie</h1>
+          <h1><img src="https://images-na.ssl-images-amazon.com/images/I/41da3NERJ4L.png" alt="" width="40px" height="40px"/>DSMovie.</h1>
           <a
             href="https://github.com/jhonatan-oliveiradev/"
             target="_blank"

@@ -16,6 +16,11 @@ header {
   margin: 0;
   font-weight: 700;
   font-size: 24px;
+  cursor: pointer;
+}
+
+.dsmovie-nav-content h1:hover {
+  color: #001;
 }
 
 .dsmovie-contact-container {
@@ -26,4 +31,8 @@ header {
 .dsmovie-contact-link {
   margin: 0 0 0 10px;
   font-size: 12px;
+}
+
+.dsmovie-contact-link:hover {
+  color: #001;
 }
