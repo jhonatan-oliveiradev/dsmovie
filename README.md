@@ -4,7 +4,7 @@ Aplicação web SPA feita na Semana Spring React 8 da escola DevSuperior com o i
 
 # Tecnologias utilizadas:
 
-###Git/GitHub para versionamento do código.
+### Git/GitHub para versionamento do código.
 
 ## Frontend
 
