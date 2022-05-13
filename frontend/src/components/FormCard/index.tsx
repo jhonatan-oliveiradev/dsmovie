@@ -2,7 +2,6 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { Movie } from "types/movie";
-import { isThisTypeNode } from "typescript";
 import { BASE_URL } from "utils/requests";
 import "./styles.css";
 
